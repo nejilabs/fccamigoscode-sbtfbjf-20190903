@@ -14,7 +14,7 @@
 	<name>fccamigoscode-sbtfbjf-20190903</name>
 	<description>freeCodeCamp (AmigosCode) - Spring Boot Tutorial for Beginners (Java Framework) (Sep 3, 2019)</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
